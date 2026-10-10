@@ -1,4 +1,4 @@
-# tanishvora.github.io
+# tanishvora-netizen.github.io
 
 Personal website for Tanish Vora, hosted on GitHub Pages.
 
