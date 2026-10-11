@@ -11,4 +11,4 @@ Personal website for Tanish Vora, hosted on GitHub Pages.
 
 Edit `index.html` (or upload a new version) and commit. GitHub Pages republishes within a minute or two.
 
-The Email, LinkedIn, and Resume buttons still use `#` as placeholder links. Search `index.html` for `href="#"` to find them.
+The Email, LinkedIn, and Resume buttons still use `#` as placeholder links. Search `index.html` for `href="#"` to find them. 
